@@ -2,6 +2,7 @@ body{
     background-color: rgb(154, 215, 255);
     background-image: linear-gradient(to bottom right, rgb(154, 215, 255), rgb(255, 255, 255));
     height: 100vh;
+    overflow:hidden;
 }
 .social-icons-container {
     padding-top: 70px;
